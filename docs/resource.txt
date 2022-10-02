@@ -1,0 +1,3 @@
+
+Code Katas:
+- https://github.com/gamontal/awesome-katas
